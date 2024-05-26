@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Java software developer who teach in college. I love to teach programming and Sodtware development to new students and prepare future programmers.
 <!--
 **guninder-sandhu87/guninder-sandhu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
